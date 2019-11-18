@@ -24,3 +24,11 @@ class ViewController: UIViewController {
 
 }
 
+extension ViewController: UITableViewController{
+    
+    
+    
+    
+    
+    
+}
